@@ -1,0 +1,5 @@
+# Ignore files/dirs build by Visual Studio
+*.suo
+*/bin/*
+*/obj/*
+TestResults/*

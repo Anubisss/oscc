@@ -1,0 +1,39 @@
+                      OSCC - Opcode Switch Case Calculator
+===============================================================================
+
+
+
+OSCC is a simple calculator written in C# and developped with
+Visual Studio 11 (2012). This tool can calculate "switch case" values
+from opcodes and vica versa. With switch case values you can find the
+proper handlers for each packet in WoW.
+
+Source code is available at: https://github.com/Anubisss/oscc
+
+License: GNU GPLv3
+         COPYING file contains the license which should be distributed
+         with the software or visit http://www.gnu.org/licenses/gpl-3.0.html
+
+Screenshots: https://github.com/Anubisss/oscc/wiki/Screenshots
+
+Supported World of Warcraft versions:
+    * [MOP] 5.1.0A, 16357 - Windows x86
+
+
+
+OSCC is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+OSCC is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with OSCC.  If not, see <http://www.gnu.org/licenses/>.
+
+
+
+===============================================================================
